@@ -1,7 +1,10 @@
 # 백준 알고리즘 공부
 
+## 내용 작성자
+<a href="https://github.com/sm-amoled">
+<img src="https://avatars.githubusercontent.com/u/39216546?s=460&u=0798fca0b98bfe3ab3323cf8060d8783786eecb3&v=4" alt="drawing" width="80" />
+    
 ## 파일 관리 방법
-
 - **bj_문제번호_문제 제목** 으로 폴더를 만든다.
     - 이때 문제 제목에는 띄워쓰기를 사용하지 않는다.
 - 폴더 안에는 다음 2개의 파일을 저장한다.
