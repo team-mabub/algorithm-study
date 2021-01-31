@@ -5,8 +5,8 @@
 푼 날짜: 2021년 1월 31일 오후 5:34
 
 ### 문제 링크
+[https://www.acmicpc.net/problem/1300](https://www.acmicpc.net/problem/1300)
 
-[https://jaimemin.tistory.com/988](https://jaimemin.tistory.com/988)
 
 ## 문제
 
@@ -74,6 +74,8 @@ while(left <= right) {
 ---
 
 ## 코멘트
+
+참고한 블로그 : [https://jaimemin.tistory.com/988](https://jaimemin.tistory.com/988)
 
 이분 탐색으로 가기 전 조건
 
