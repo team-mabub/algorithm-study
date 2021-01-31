@@ -114,11 +114,10 @@ bool binarySearch(int* arr, int arrSize, int target) {
     // arr가 정렬된 상태일 때
     int index = arrSize/2;
     int low = 0, high = arrSize-1;
-    int movableSpace = arrSize/2;
     
     while(arr[index] != target) {
         // printf("target : %d / index : %d / L : %d H : %d\n", target, index , low, high);
-        if(movableSpace == 0)  {
+        if((high-low)/2 == 0)  {
             // there's no target in array
             return false;
         }
@@ -131,7 +130,6 @@ bool binarySearch(int* arr, int arrSize, int target) {
             index = (index+high+1)/2;
         }
         
-        movableSpace /= 2;
     }
     
     return true;
