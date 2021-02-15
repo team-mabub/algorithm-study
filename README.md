@@ -24,13 +24,14 @@
 ### 코딩하는펭귄
 
 - [이것이 취업을 위한 코딩테스트다](http://www.yes24.com/Product/Goods/91433923) 2회독 완료 (현재 1회독 완료했음)
-- [BOJ 단계별문제](https://www.acmicpc.net/step) 최소신장트리까지 - ` 월``수``금 ` 2문제
-- [Programmers Challenges](https://programmers.co.kr/learn/challenges?tab=all_challenges) Level2까지 - ` 화``목 ` 1문제
+- [BOJ 단계별문제](https://www.acmicpc.net/step) 최소신장트리까지 - `월` `수` `금` 2문제
+- [Programmers Challenges](https://programmers.co.kr/learn/challenges?tab=all_challenges) Level2까지 - `화` `목` 1문제
 
 ### SM_Park
+
 - **매일 2문제** 이상 풀고 커밋하기!
 - [알고리즘 트레이닝 - 프로그래밍 대회 입문 가이드](http://m.yes24.com/goods/detail/72274740) 책을 읽으며 나오는 알고리즘 유형 별 백준에서 20문제씩 풀어보기
-    - 한 것 : 정렬, 이분 탐색, vector, DP
-    - 할 것 : 스택, 큐, 덱, set, multi-set, map
+  - 한 것 : 정렬, 이분 탐색, vector, DP
+  - 할 것 : 스택, 큐, 덱, set, multi-set, map
 
 ---
