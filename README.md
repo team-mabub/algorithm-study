@@ -1,8 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3>Algorithm Study</h3>
+  <h1>Algorithm Study</h1>
   <small>🔄 취업을 위한 알고리즘 스터디 💼</small>
+  <hr/>
 </div>
 
 ## 👋 스터디원
